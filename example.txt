@@ -1,1 +1,1 @@
-empty file
+It is test file for work with git
